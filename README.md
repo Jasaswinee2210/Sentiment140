@@ -51,3 +51,4 @@ This project is part of the Artificial Intelligence and Data Science curriculum 
 - Logistic Regression provided a good balance between performance and interpretability.
 
 ---
+git clone https://github.com/Jasaswinee2210/Sentiment140
